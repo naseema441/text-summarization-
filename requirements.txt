@@ -1,0 +1,5 @@
+nltk
+sumy
+transformers
+torch
+gradio
